@@ -7,7 +7,7 @@ android {
 
     defaultConfig {
         applicationId "com.ramotion.navigationtoolbar.example"
-        minSdkVersion 21
+        minSdkVersion 17
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
